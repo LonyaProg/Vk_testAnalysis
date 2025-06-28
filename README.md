@@ -1,3 +1,2 @@
 # Vk_testAnalysis
-# Vk_testAnalysis
-# Vk_testAnalysis
+**Выполнение SQL запровосов и реализация на Pandas c тем же функционалом**
